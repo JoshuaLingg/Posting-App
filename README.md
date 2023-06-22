@@ -1,4 +1,4 @@
 
 # PostingApp
 A little buggy with deployment.
-https://posting-7elmi043y-joshualingg.vercel.app 
+https://posting-84qc8ietx-joshualingg.vercel.app/
